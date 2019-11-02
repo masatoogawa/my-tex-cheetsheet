@@ -14,4 +14,4 @@ https://mblode.github.io/marx/
 
 ## MathJax
 
-MathJaxの使い方 : http://gilbert.ninja-web.net/math/mathjax1.html
+[MathJaxの使い方](http://gilbert.ninja-web.net/math/mathjax1.html)

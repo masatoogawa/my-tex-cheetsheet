@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hello MathJax and Marx</title>
+  <link rel="stylesheet" href="css/marx.min.css">
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [ ['$','$'], ['\\(','\\)'] ],
+        processEscapes: true
+      }
+    });
+  </script>
+  <script type="text/javascript" async
+          src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML">
+  </script>
+  <style>
+    p {
+      margin-left: auto;
+      margin-right: auto;
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    <h1>
+      $e^{i\theta} = \cos\theta + i\sin\theta$
+    </h1>
+    <hr>
+    <p>\$e^{i\theta} = \cos\theta + i\sin\theta\$</p>
+  </main>
+</body>
+</html>

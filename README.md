@@ -2,7 +2,7 @@
 
 ## Github pages
 
-https://masatoogawa.github.io/hellomarx/
+https://masatoogawa.github.io/my-tex-cheetsheet/
 
 ## Marx
 
